@@ -1,0 +1,4 @@
+testName,username,password,expectedMessage,validLogin
+validLogin,tomsmith,SuperSecretPassword!,You logged into a secure area!,true
+invalidPassword,tomsmith,wrongPassword,Your password is invalid!,false
+invalidUsername,wrongUser,SuperSecretPassword!,Your username is invalid!,false
