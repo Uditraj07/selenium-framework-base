@@ -1,0 +1,10 @@
+Scenario,FiledName,FiledType,Keyword,FieldVlaue,Expected Result
+Loged_In_Validation_Scenario,Login,Label,Available,,
+,Username,Label,Available,,
+,,textbox,PlaceHolder,,Username
+,,icon,Available,,
+,Login,Button,Available,,
+,,Button,Enabled,,
+,Password,Label,Available,,
+,,textbox,PlaceHolder,,Password
+,,icon,Available,,

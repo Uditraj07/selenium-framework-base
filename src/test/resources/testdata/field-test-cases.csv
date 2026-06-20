@@ -1,0 +1,5 @@
+Scenario,FiledName,FiledType,Keyword,FieldVlaue,Expected Result
+Login_Field_Validation,username,textbox,Mandatory,,
+,password,textbox,Mandatory,,
+,Login,Button,Clickable,,
+Logout_Field_Validation,Username,Label,ReadOnly,,

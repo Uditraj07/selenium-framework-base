@@ -6,15 +6,7 @@
     <test name="Parallel Chrome Tests">
         <parameter name="browser" value="chrome"/>
         <classes>
-            <class name="tests.LoginTest"/>
-            <class name="tests.UserFlowsTest"/>
-        </classes>
-    </test>
-    <test name="Parallel Firefox Tests">
-        <parameter name="browser" value="firefox"/>
-        <classes>
-            <class name="tests.LoginTest"/>
-            <class name="tests.UserFlowsTest"/>
+            <class name="tests.LoginPageUiTest"/>
         </classes>
     </test>
 </suite>
